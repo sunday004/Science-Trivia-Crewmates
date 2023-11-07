@@ -29,9 +29,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:https://imgur.com/a/lETR8MF.gif.
+Here's a walkthrough of implemented user stories:https://imgur.com/a/oUu2gXu.gif
 
-<img src='https://imgur.com/a/lETR8MF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/oUu2gXu.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGIF
